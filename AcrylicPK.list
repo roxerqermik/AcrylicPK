@@ -1007,7 +1007,7 @@ cbmsn.112.2o7.net
 cbsig.net
 cc.bcentral.com
 ccast.research.microsoft.com
-ccc01.opinionlab.com #[msn.com]
+ccc01.opinionlab.com
 ccefzhxgobjm.com
 ccp.microsoft.com
 ccp.payments.live-int.com
@@ -3022,6 +3022,7 @@ msnhst.microsoft.com
 msniagateway.msn.com
 msniasearch.msn.com
 msninvite.112.2o7.net
+msninviteprod.112.207.net
 msninviteprod.112.2O7.net
 msnlivefavorites.112.2o7.net
 msnmercom.112.2o7.net
@@ -3030,12 +3031,18 @@ msnmobilestore.msn.com
 msnonecare.112.2o7.net
 msnportal.112.2o7.net
 msnportalaffiliate.112.2o7.net
+msnportalaunews.112.207.net
 msnportalaunews.112.2O7.net
 msnportalbeetoffice2007.112.2o7.net
-msnportalgame.112.2O7.net
+msnportalgame.112.207.net
+msnportalgame.112.2o7.net
+msnportalhome.112.207.net
 msnportalhome.112.2O7.net
-msnportallatino.112.2O7.net
-msnportallive.112.2O7.net
+msnportallatino.112.207.net
+msnportallatino.112.2o7.net
+msnportallive.112.207.net
+msnportallive.112.2o7.net
+msnportalmsgboardsrvc.112.207.net
 msnportalmsgboardsrvc.112.2O7.net
 msnportalvideo.112.2o7.net
 msnprod.oberon-media.com
@@ -3234,7 +3241,6 @@ oca.microsoft.de
 oca.telemetry.microsoft.com
 ocajapan.rte.microsoft.com
 ocs21x.ocsweb.microsoft.com
-ocsp. spo1.
 ocsp.spo1.verisign.com
 ocsp.spo1.verisign.de
 odata.research.microsoft.com
@@ -3318,7 +3324,6 @@ onlinemarketing.dynamics-ppe.com
 onlinemarketing.microsoftdynamicslive-ppe.com
 onlinestores.metaservices.microsoft.com
 ontspanning.msn.be
-ood. opsource.
 ood.opsource.net
 openload.co
 openx.net
@@ -5820,6 +5825,7 @@ www.apac.microsoftonline.com
 www.apester.com
 www.api.beta7.idss.msn.com
 www.api.bing.com
+www.api.content-ad.net
 www.api.crmlive-ppe.com
 www.api.health.appex.bing.com
 www.api.health.appex.bing.com.akadns.net
@@ -6180,6 +6186,7 @@ www.buy.officeformac.com
 www.buy.trymicrosoftoffice.com
 www.buynow.one.microsoft.com
 www.buyoffice.microsoft.com
+www.buysellads.com
 www.buysupport.microsoft.com
 www.buysupportuat.microsoft.com
 www.buyvip.com
@@ -6240,6 +6247,7 @@ www.canyonpark.harmony.msft.net
 www.cap-cap-pop.com
 www.capccfv2.partners.extranet.microsoft.com
 www.capslock.site
+www.carbonads.net
 www.carbonatedgames.msn.com
 www.care.dlservice.microsoft.com
 www.careers.microsoft.com
@@ -6278,11 +6286,15 @@ www.cdm.microsoft.com
 www.cdn-resources.windowsphone.com
 www.cdn.adnxs.com
 www.cdn.atdmt.com
+www.cdn.distiltag.com
 www.cdn.epg.tvdownload.microsoft.com
+www.cdn.fancybar.net
 www.cdn.marketplacecontent.windowsphone.com
 www.cdn.marketplaceedgeservice.windowsphone.com
 www.cdn.marketplaceimages.windowsphone.com
 www.cdn.playready.microsoft.com
+www.cdn.wwwpromoter.com
+www.cdn.ywxi.net
 www.cdn1.zone.msn.com
 www.cdn2.zone.msn.com
 www.cdn3.zone.msn.com
@@ -6591,6 +6603,7 @@ www.cpzonebigipa01.zone.com
 www.cpzonebigipa02.zone.com
 www.crb.partners.calendar.live.com
 www.createsend1.com
+www.creative.wwwpromoter.com
 www.creativemark.co.uk
 www.criteo.com
 www.crl.
@@ -6996,6 +7009,7 @@ www.expertzone.microsoft.com
 www.explo99.fr.msn.com
 www.explore.live.com
 www.explore.ms
+www.exponential.com
 www.expression.microsoft.com
 www.exrca-stg.support.microsoft.com
 www.ext.jp.chan.kaw.cb3.glbdns.microsoft.com
@@ -7015,6 +7029,7 @@ www.fai.music.metaservices.microsoft.com
 www.fake-id.com
 www.familysafety.microsoft.com
 www.fan.research.microsoft.com
+www.fancybar.net
 www.farmcapitalupdate.com
 www.fast64loans.com
 www.fastly.net
@@ -7119,6 +7134,7 @@ www.freebusy.office.microsoft.com
 www.freefilesync.org
 www.freeinstall.msnmember.msn.com
 www.freepowerpoint.com
+www.freestar.io
 www.fremont.live.com
 www.fridrici.info
 www.fs.microsoft.com
@@ -7247,6 +7263,7 @@ www.hh-btr.com
 www.hh-software.com
 www.hh-software.de
 www.hhwqfmqyqoks.com
+www.histats.com
 www.hitcpm.com
 www.hk.chan.kaw.cb3.glbdns.microsoft.com
 www.hk.kaw.cb3.glbdns.microsoft.com
@@ -7785,6 +7802,7 @@ www.mashup.jazz.live.com
 www.massppe.microsoft.com
 www.match.aom.eso.com
 www.mathlab.us
+www.maxcdn.bootstrapcdn.com
 www.maxmodels.pl
 www.maxonclick.com
 www.mbs.microsoft.com
@@ -8315,6 +8333,7 @@ www.mywebsearch.com
 www.mywindowsmobile.co.uk
 www.mywindowsmobile.com
 www.mywindowsmobile.de
+www.n-cdn-origin.areyouahuman.com
 www.na.activation-v2.sls.microsoft.com
 www.na.activation.sls.microsoft.com
 www.na.monitoring.sls.microsoft.com
@@ -8427,8 +8446,6 @@ www.oca.microsoft.de
 www.oca.telemetry.microsoft.com
 www.ocajapan.rte.microsoft.com
 www.ocs21x.ocsweb.microsoft.com
-www.ocsp.
-www.ocsp. spo1.
 www.ocsp.spo1.verisign.com
 www.ocsp.spo1.verisign.de
 www.odata.research.microsoft.com
@@ -8510,8 +8527,6 @@ www.onlinemarketing.dynamics-ppe.com
 www.onlinemarketing.microsoftdynamicslive-ppe.com
 www.onlinestores.metaservices.microsoft.com
 www.ontspanning.msn.be
-www.ood.
-www.ood. opsource.
 www.ood.opsource.net
 www.openload.co
 www.openx.net
@@ -8819,6 +8834,7 @@ www.psdeperf.playmsn.com
 www.pseudodev.clearleadtest.com
 www.pseudotest.clearleadtest.com
 www.pssoutagent.msn.com
+www.pub.freestar.io
 www.pub.msn.com
 www.pubads.g.doubleclick.net
 www.pubcenter.microsoft.com
@@ -9015,6 +9031,7 @@ www.s.microsoft.com
 www.s.msn.com
 www.s.rms.edu.live-int.com
 www.s.synd.edu.live-int.com
+www.s.tribalfusion.com
 www.s.xbox.com
 www.s0ft4pc.com
 www.s1-adfly.com
@@ -9075,8 +9092,10 @@ www.schemas.datacontract.org
 www.schemas.live.com
 www.schemas.microsoft.com
 www.sclive-ppe.net
+www.scorecardresearch.com
 www.scpe.service.microsoft-int.com
 www.scrawlg.msn.com
+www.screenwatch.yournewtab.com
 www.scweb.university.microsoft.com
 www.se.adcenterbt.microsoft.com
 www.se.windows.com
@@ -9509,6 +9528,8 @@ www.sqmtest.microsoft.com
 www.srch.atdmt.com
 www.srd.ds.microsoft.com
 www.srppykbedhqp.com
+www.srv.buysellads.com
+www.srv.carbonads.net
 www.ss.adcenterbt.microsoft.com
 www.sse.bay03.calendar.live.com
 www.sse.bay04.calendar.live.com
@@ -9666,6 +9687,7 @@ www.table.sg1proda.store.core.windows.net
 www.table.sg1prodb.store.core.windows.net
 www.tackinstance.info
 www.tag.microsoft.com
+www.tags.expo9.exponential.com
 www.talisman.msn.com
 www.tapad.com
 www.targetingservices.microsoft.com
@@ -9811,12 +9833,14 @@ www.travel.images.appex.bing.com
 www.travel.tile.appex.bing.com
 www.trendingfirst.com
 www.trial.trymicrosoftoffice.com
+www.tribalfusion.com
 www.tripoli.microsoft.com
 www.triumphaffiliates.com
 www.trqbzsxnzxmf.com
 www.trust-provider.com
 www.trust.zone
 www.truste.com
+www.trustedsite.com
 www.trymicrosoftoffice.com
 www.ts1.explicit.bing.net
 www.ts1.mm.bing.net
