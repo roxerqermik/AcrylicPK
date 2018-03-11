@@ -1,4 +1,5 @@
 a2157890407.cdn.optimizely.com
+aax-eu.amazon-adsystem.com
 ace.advertising.com
 adbsc.krmobi.com
 adiode.com
@@ -7,8 +8,12 @@ adnxs.com
 adotmob.com
 ads.krmobi.com
 ads.programattik.com
+adserver-eu.adtech.advertising.com
+adtech.advertising.com
 advertising.com
 alog.umeng.co
+amazon-adsystem.com
+ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
 analytics.rayjump.com
 angularjs.org
 api.pingstart.com
@@ -19,6 +24,8 @@ b1sync.zemanta.com
 bidr.io
 brsrvr.com
 btttag.com
+cdn-d.amazon-adsystem.com
+cdn.brcdn.com
 cdn.optimizely.com
 client.midosoo.com
 client.reactrjs.com
@@ -28,6 +35,7 @@ clk.taptica.com
 cm.ctnsnet.com
 config.ad.snappea.com
 connexity.net
+criteo.com
 ctnsnet.com
 delivery-europe-west-1.openx.net
 dsp.io
@@ -40,6 +48,8 @@ encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
 everesttech.net
+fastlane.rubiconproject.com
+fls-eu.amazon.co.uk
 fontawesome.io
 gads.pubmatic.com
 gm.opensocial.googleusercontent.com
@@ -48,7 +58,6 @@ got.pubnative.net
 graph.snappea.com
 gumtreeuk-d.openx.net
 hipchat.slickdealscdn.com
-i.ebayimg.com
 identrust.com
 image6.pubmatic.com
 img.snappea.com
@@ -59,7 +68,9 @@ j.mrpdata.net
 lh3.googleusercontent.com
 log.diggoods.com
 logx.optimizely.com
+m.media-amazon.com
 match.prod.bidr.io
+media-amazon.com
 mobileadtrading.com
 mrpdata.net
 mxptint.net
@@ -88,10 +99,12 @@ pxl.connexity.net
 rayjump.com
 rc2waycm-atl.netmng.com
 reactrjs.com
+rtax.criteo.com
 rtb-xa.openx.net
 rtb.openx.net
 rubiconproject.com
 s3.amazonaws.com
+sb.scorecardresearch.com
 sc.omtrdc.net
 sc.smardroid.com
 secureinclude.ebaystatic.com
@@ -112,6 +125,7 @@ su.tbt.li
 sync-tapi.admatrix.jp
 sync-tm.everesttech.net
 sync.adotmob.com
+tap-secure.rubiconproject.com
 token.rubiconproject.com
 track-east.mobileadtrading.com
 track1.adsplay.in
@@ -122,9 +136,11 @@ trk22.mobivisits.com
 trustid.ocsp.identrust.com
 tt.omtrdc.net
 uk.ebayrtm.com
+unagi-eu.amazon.com
 usync.aws.rubiconproject.com
 www-gm-opensocial.googleusercontent.com
 www.a2157890407.cdn.optimizely.com
+www.aax-eu.amazon-adsystem.com
 www.ace.advertising.com
 www.adbsc.krmobi.com
 www.adiode.com
@@ -133,8 +149,12 @@ www.adnxs.com
 www.adotmob.com
 www.ads.krmobi.com
 www.ads.programattik.com
+www.adserver-eu.adtech.advertising.com
+www.adtech.advertising.com
 www.advertising.com
 www.alog.umeng.co
+www.amazon-adsystem.com
+www.ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
 www.analytics.rayjump.com
 www.angularjs.org
 www.api.pingstart.com
@@ -145,6 +165,8 @@ www.b1sync.zemanta.com
 www.bidr.io
 www.brsrvr.com
 www.btttag.com
+www.cdn-d.amazon-adsystem.com
+www.cdn.brcdn.com
 www.cdn.optimizely.com
 www.client.midosoo.com
 www.client.reactrjs.com
@@ -154,6 +176,7 @@ www.clk.taptica.com
 www.cm.ctnsnet.com
 www.config.ad.snappea.com
 www.connexity.net
+www.criteo.com
 www.ctnsnet.com
 www.delivery-europe-west-1.openx.net
 www.dsp.io
@@ -166,6 +189,8 @@ www.encrypted-tbn0.gstatic.com
 www.encrypted-tbn1.gstatic.com
 www.encrypted-tbn2.gstatic.com
 www.everesttech.net
+www.fastlane.rubiconproject.com
+www.fls-eu.amazon.co.uk
 www.fontawesome.io
 www.gads.pubmatic.com
 www.gm.opensocial.googleusercontent.com
@@ -174,7 +199,6 @@ www.got.pubnative.net
 www.graph.snappea.com
 www.gumtreeuk-d.openx.net
 www.hipchat.slickdealscdn.com
-www.i.ebayimg.com
 www.identrust.com
 www.image6.pubmatic.com
 www.img.snappea.com
@@ -185,7 +209,9 @@ www.j.mrpdata.net
 www.lh3.googleusercontent.com
 www.log.diggoods.com
 www.logx.optimizely.com
+www.m.media-amazon.com
 www.match.prod.bidr.io
+www.media-amazon.com
 www.mobileadtrading.com
 www.mrpdata.net
 www.mxptint.net
@@ -214,10 +240,12 @@ www.pxl.connexity.net
 www.rayjump.com
 www.rc2waycm-atl.netmng.com
 www.reactrjs.com
+www.rtax.criteo.com
 www.rtb-xa.openx.net
 www.rtb.openx.net
 www.rubiconproject.com
 www.s3.amazonaws.com
+www.sb.scorecardresearch.com
 www.sc.omtrdc.net
 www.sc.smardroid.com
 www.secureinclude.ebaystatic.com
@@ -238,6 +266,7 @@ www.su.tbt.li
 www.sync-tapi.admatrix.jp
 www.sync-tm.everesttech.net
 www.sync.adotmob.com
+www.tap-secure.rubiconproject.com
 www.token.rubiconproject.com
 www.track-east.mobileadtrading.com
 www.track1.adsplay.in
@@ -248,6 +277,7 @@ www.trk22.mobivisits.com
 www.trustid.ocsp.identrust.com
 www.tt.omtrdc.net
 www.uk.ebayrtm.com
+www.unagi-eu.amazon.com
 www.usync.aws.rubiconproject.com
 www.www-gm-opensocial.googleusercontent.com
 www.zemanta.com
