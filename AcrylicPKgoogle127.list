@@ -220,6 +220,7 @@
 127.0.0.1 s9.googleusercontent.com
 127.0.0.1 safebrowsing-cache.google.com
 127.0.0.1 safebrowsing.clients.google.com
+127.0.0.1 safebrowsing.google.com
 127.0.0.1 sassets.vevo.com
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 securepubads.g.doubleclick.net
@@ -463,6 +464,7 @@
 127.0.0.1 www.s9.googleusercontent.com
 127.0.0.1 www.safebrowsing-cache.google.com
 127.0.0.1 www.safebrowsing.clients.google.com
+127.0.0.1 www.safebrowsing.google.com
 127.0.0.1 www.sassets.vevo.com
 127.0.0.1 www.secure-ds.serving-sys.com
 127.0.0.1 www.securepubads.g.doubleclick.net
